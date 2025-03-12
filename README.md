@@ -15,5 +15,6 @@ Each model's performance was evaluated based on accuracy, precision, recall, and
 Features
 One-Hot Encoding: Transforms nucleotide sequences into binary vectors.
 K-mer Frequency Analysis: Counts the occurrences of k-length substrings in the sequences, providing a comprehensive feature set for model training.
+
 Performance
 The models demonstrated strong predictive performance, with Random Forest achieving the highest scores across all metrics.
