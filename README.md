@@ -1,4 +1,4 @@
-#DNA Splicing Classification Using Machine Learning
+## DNA Splicing Classification Using Machine Learning
 
 Project Overview
 This project aims to classify DNA sequences into exon-intron (EI), intron-exon (IE), and non-splice (N) categories using advanced machine learning techniques. It utilizes models such as Logistic Regression, Random Forest, and Deep Neural Networks to analyze and predict patterns in DNA sequences, aiding in the understanding of gene expression and the identification of genetic mutations.
